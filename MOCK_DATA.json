@@ -7998,21 +7998,5 @@
     "email": "glepardrr@tamu.edu",
     "gender": "Male",
     "job_title": "VP Quality Control"
-  },
-  {
-    "first_name": "Aniket",
-    "last_name": "Negi",
-    "email": "aniketng08@gmail.com",
-    "gender": "Male",
-    "job_title": "SWE",
-    "id": 1001
-  },
-  {
-    "first_name": "Tekina",
-    "last_name": "Negi",
-    "email": "tekinang08@gmail.com",
-    "gender": "Male",
-    "job_title": "SWE",
-    "id": 1002
   }
 ]
